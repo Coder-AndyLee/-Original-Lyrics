@@ -11,7 +11,7 @@ Star Falls
 可就连那个幸运的夜  
 梦里甚至都看不见  
 
-（副歌）
+（副歌）  
 Star Falls  像钟楼的卡西莫多  
 Star Falls  无助地凝望着宇宙  
 Star Falls  一片片草地被灼痛  
