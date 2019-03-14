@@ -1,5 +1,5 @@
 # Original-Lyrics
-1. 垃圾
+1. [垃圾](https://github.com/Coder-AndyLee/Original-Lyrics/blob/master/%E5%9E%83%E5%9C%BE.md)
 
 2. [群居动物](https://github.com/Coder-AndyLee/Original-Lyrics/blob/master/%E7%BE%A4%E5%B1%85%E5%8A%A8%E7%89%A9.md)（待完成）
 
