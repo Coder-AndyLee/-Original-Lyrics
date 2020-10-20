@@ -12,5 +12,6 @@
   },
   "promptDelete": false,
   "alwaysUpdateLinks": false,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "strictLineBreaks": true
 }
