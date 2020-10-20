@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "337066d729597173",
+    "type": "split",
+    "children": [
+      {
+        "id": "73206b8358909816",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        },
+        "group": "64d66f246bac870f"
+      },
+      {
+        "id": "e7bfedd6ac8ceec7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview"
+          }
+        },
+        "group": "64d66f246bac870f"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba2e67c58c86d1b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "efbaec44bf2d4af3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbedbcc1d7c11196",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef117966635569e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "edd63d62e4916d4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5010017c11a5f531",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fe95e0b6bbd61f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "README.md",
+    "3.旧事斑驳/故.md",
+    "3.旧事斑驳/当你在我手中颤抖的时候.md",
+    "1.暗黑系画风/Star Falls.md",
+    "1.暗黑系画风/群居动物.md",
+    "1.暗黑系画风/垃圾.md",
+    "4.古早作品/Valentine-何必在一起英文版.md",
+    "4.古早作品/像蒲公英一样壮烈.md",
+    "4.古早作品/午后三点的阳光.md",
+    "4.古早作品/流星的嘴角.md"
+  ]
+}
